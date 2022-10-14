@@ -56,7 +56,7 @@ A Project mailing list is established, each Project participant documented in [P
 
 **Project participants**
 
-Project participant (= contributor) status may be given to those who intend to make ongoing contributions to the CAMARA Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
+Project participant status may be given to those who intend to make ongoing contributions to the CAMARA Project. This is usually in the form of code submissions and improvements and/or notable work on documentation but may also include other contributions such as organizing events or user support.
 
 The current Project participants are listed in [PARTICIPANTS.MD](./PARTICIPANTS.MD).
 
@@ -78,7 +78,7 @@ A Working Group participant may resign by unsubscribing from the mailing list(s)
 
 **Contributors**
 
-Each Project participant can contribute to the Sub Projects of the Project. Contributors to a Sub Project can contribute by creating pull requests. To become or resign as Contributor please subscribe / unsubscribe to the mailing list of the Sub Project. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
+Each Project participant can contribute to the Sub Projects of the Project. Contributors to a Sub Project can contribute by creating pull requests. Please start by subscribing to the mailing list of the Sub Project. The list of Contributors of a specific Sub Project is maintained by the administrators of the Project using GitHub functionality.
 
 **Codeowners**
 
